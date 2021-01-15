@@ -5,7 +5,7 @@ package leetcode.Algorithm;
  */
 public class FindGreatestSum {
     public static void main(String[] args) {
-        int[] array = {6,8,-2,7,-15,1,2,2};
+        int[] array = {-6,-8,-2,-7,-15,-1,-2,-2};
         System.out.println(FindGreatestSumOfSubArray(array));
         System.out.println(maxSubArray(array));
 
