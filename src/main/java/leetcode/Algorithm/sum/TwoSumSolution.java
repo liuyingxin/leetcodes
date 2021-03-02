@@ -1,4 +1,4 @@
-package leetcode.Algorithm;
+package leetcode.Algorithm.sum;
 
 import java.util.HashMap;
 import java.util.Map;

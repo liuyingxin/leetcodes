@@ -1,4 +1,4 @@
-package leetcode.Algorithm;
+package leetcode.Algorithm.String;
 
 import org.springframework.util.StringUtils;
 

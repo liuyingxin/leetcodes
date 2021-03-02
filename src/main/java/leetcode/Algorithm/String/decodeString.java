@@ -1,4 +1,4 @@
-package leetcode.Algorithm;
+package leetcode.Algorithm.String;
 
 import java.util.HashSet;
 import java.util.Set;

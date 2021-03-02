@@ -1,4 +1,4 @@
-package leetcode.Algorithm;
+package leetcode.Algorithm.sum;
 
 /**
  * 最大连续子序列和
